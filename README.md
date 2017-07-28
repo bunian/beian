@@ -1,5 +1,5 @@
 # beian
->这是一个** PHP 备案查询 API**。
+>这是一个*** PHP 备案查询 API***。
 
 
 ## TODO
@@ -10,4 +10,4 @@
 
 ## LICENSE
 
-MIT © [beian](https://github.com/ym)
+MIT © [beian](https://github.com/bunian/beian)
